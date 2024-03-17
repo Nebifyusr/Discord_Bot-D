@@ -127,4 +127,4 @@ async def print(ctx, *, expression):
     else:
         await ctx.send('Command not available in this mode.')
 
-bot.run('MTIxODg2Nzk2Mzg4NTY1NDA4Ng.G1KWtb.33STOQuxN7qMW62QnhnThOPWTneWeDUDaRppU0')
+bot.run('TT')
